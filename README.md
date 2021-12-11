@@ -31,7 +31,7 @@ This is my second challenge from Frontend Mentor. I felt more comfortable with i
 
 ### What I learned
 
-I learned about background-blend-mode!! The result wasn't exactly the same as the original but I think it was great I discover a new technique. 
+I learned about background-blend-mode!! The result wasn't exactly the same as the original but I think it was great I discovered a new technique. 
 
 ### Continued development
 
